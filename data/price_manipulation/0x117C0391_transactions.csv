@@ -1,0 +1,3 @@
+﻿Transaction Hash,Status,Method,Blockno,DateTime (UTC),From,From_Nametag,To,To_Nametag,Amount,Value (USD),Txn Fee
+0x20a6dcff06a791a7f8be9f423053ce8caee3f9eecc31df32445fc98d4ccd8365,Success,Start Mint,14506358,2022/4/2 11:03,0x8b4c1083cd6aef062298e1fa900df9832c8351b3,Inverse Finance Exploiter 2,0xea0c959bbb7476ddd6cd4204bdee82b790aa1562,,0 ETH,$0.00 ,1.750624
+0x600373f67521324c8068cfd025f121a0843d57ec813411661b07edc5ff781842,Success,Mint,14506359,2022/4/2 11:04,0x117c0391b3483e32aa665b5ecb2cc539669ea7e9,Inverse Finance Exploiter 1,0xeA0c959BBb7476DDD6cD4204bDee82b790AA1562,,0 ETH,$0.00 ,0.5858936

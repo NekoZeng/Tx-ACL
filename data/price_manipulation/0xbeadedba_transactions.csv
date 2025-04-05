@@ -1,0 +1,2 @@
+Transaction Hash,Blockno,UnixTimestamp,DateTime (UTC),From,To,ContractAddress,Value_IN(ETH),Value_OUT(ETH),CurrentValue @ $2538.19695931973/Eth,TxnFee(ETH),TxnFee(USD),Historical $Price/Eth,Status,ErrCode,Method
+0xb36486f032a450782d5d2fac118ea90a6d3b08cac3409d949c59b43bcd6dbb8f,16172820,1670898767,2022/12/13 2:32,0xbeadedbabed6a353c9caa4894aa7e5f883e32967,0xe911519dc7f35996c6ad5c8a53e82b101af790d6,,0,1.5E-15,3.8073E-12,0.012261973,31.12330328,1320.43,,,Not Yoink
